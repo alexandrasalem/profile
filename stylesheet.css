@@ -1,0 +1,30 @@
+* {
+	font-family: Cambria;
+	text-align: center;
+}
+
+head {
+	background-image: -webkit-linear-gradient(#666CCC, #BC1324); 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p {
+	color:Blue;
+}
+
+h1 {
+	color:Black;
+	text-transform: uppercase;
+}
+
+table, td {
+	border: 1px solid black;
+	text-align: center;
+}
+
+  table.center {
+    width:50%; 
+    margin-left:25%; 
+    margin-right:25%;
+  }
