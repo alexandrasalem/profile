@@ -1,5 +1,5 @@
 * {
-	font-family: Cambria;
+	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 	border: none
 }
@@ -12,7 +12,6 @@ head {
 
 h1 {
 	color:Black;
-	text-transform: uppercase;
 	text-align: center;
 }
 
